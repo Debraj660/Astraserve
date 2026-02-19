@@ -87,7 +87,6 @@ This approach:
 
 ```bash
 g++ main.cpp core/*.cpp http/*.cpp network/*.cpp utils/*.cpp -pthread 
-./a.out
 ```
 
 ###  Run
